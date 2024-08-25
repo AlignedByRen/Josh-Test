@@ -1,0 +1,10 @@
+let project = {
+    name: '62009 Dantili',
+    street: '62009 Dantili Rd',
+    city: 'Bend',
+    state: 'OR',
+    zipcode: 97702,
+    unitnum: 4,
+}
+
+console.log(project.name);
