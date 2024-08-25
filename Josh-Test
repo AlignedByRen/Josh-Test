@@ -5,6 +5,7 @@ let project = {
     state: 'OR',
     zipcode: 97702,
     unitnum: 4,
+    rentin: 2600,
 }
 
 console.log(project.name);
